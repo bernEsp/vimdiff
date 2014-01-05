@@ -4,6 +4,3 @@ def algo
 opdkjdl 91
 tsasdasoesting algo
 sdadadadk
-end
-
-sdadak
