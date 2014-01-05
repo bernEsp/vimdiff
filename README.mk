@@ -30,4 +30,7 @@ example:
   :move to the file (target, current, merge)
   :Gwrite!, :Gwrite, :Gwrite! to keep the file
 
+complete tutorial from
+(fugitive vim resolving merge conflicts with vimdiff)[http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/]
+
 	
